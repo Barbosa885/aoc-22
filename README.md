@@ -1,2 +1,5 @@
 # Introduction
-Repository focused on Advent of code 2022 solutions
+Repository to save my Advent of Code solutions 
+
+Link to the official site
+https://adventofcode.com/
